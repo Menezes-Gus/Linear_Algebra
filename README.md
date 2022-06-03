@@ -1,2 +1,2 @@
 # Álgebra Linear (Linear Algebra)
- Linear algebra on python
+ Linear algebra in python
